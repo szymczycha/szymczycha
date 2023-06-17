@@ -1,7 +1,9 @@
 ### Welcome to my github page 👋
 
 ## I'm Simon, a full-stack dev from Poland
+
 - I like puzzles, board games and learning stuff.
+- 
 - Here's some stuff i know or am learning: 
 
 <a href="https://www.android.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/APK_format_icon_%282014-2019%29.png/640px-APK_format_icon_%282014-2019%29.png" height="50" /></a> 
