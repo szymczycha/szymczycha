@@ -11,6 +11,7 @@
 <a href="https://react.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50" /></a>
 <a href="https://angular.io/" target="blank"><img align="center" src="https://angular.io/assets/images/logos/angular/angular.png" height="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" /></a>
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" height="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" height="50" /></a>
 <!--
