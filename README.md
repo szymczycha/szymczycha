@@ -6,7 +6,7 @@
 
 📧 Contact me at: skonieczny266@gmail.com
   
-###### Here's some stuff i've had some experience with: 
+###### Here's stuff i've had some experience with: 
 
 <a href="https://www.android.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/APK_format_icon_%282014-2019%29.png/640px-APK_format_icon_%282014-2019%29.png" height="50" /></a> 
 <a href="https://dev.java/learn/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" height="50" /></a>
