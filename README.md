@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome to my github page 👋
 
+# I'm Simon, a full-stack dev from Poland
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymczycha)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **szymczycha/szymczycha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
