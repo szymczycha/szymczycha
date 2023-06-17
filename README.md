@@ -2,7 +2,9 @@
 
 ### I'm Simon, a full-stack dev from Poland
 
-I like puzzles, board games and learning stuff.
+🧩 I like puzzles, board games and learning stuff.
+
+📧 Contact me at: skonieczny266@gmail.com
   
 ###### Here's some stuff i know: 
 
