@@ -1,9 +1,14 @@
 ### Welcome to my github page 👋
 
 # I'm Simon, a full-stack dev from Poland
+I like puzzles, board games and learning stuff.
+Here's some stuff i know or am learning: 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymczycha)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.android.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/APK_format_icon_%282014-2019%29.png/640px-APK_format_icon_%282014-2019%29.png" height="100" /></a>
 <!--
+Tabeleczka ze statami z GH
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymczycha)](https://github.com/anuraghazra/github-readme-stats)
+
 **szymczycha/szymczycha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
